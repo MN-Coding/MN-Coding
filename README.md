@@ -15,10 +15,3 @@
 <img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
 <img align="left" height="32px" width="32px" alt="Azure logo" src="https://swimburger.net/media/ppnn3pcl/azure.png">
 <img align="left" height="32px" width="32px" alt="React logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-
-### 📫 Contact Info 
-
-<!---
-MN-Coding/MN-Coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
